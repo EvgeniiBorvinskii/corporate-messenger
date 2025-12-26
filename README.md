@@ -23,12 +23,16 @@
 [![WebRTC](https://img.shields.io/badge/WebRTC-Enabled-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org/)
 
 > **Production-ready corporate messenger** with real-time messaging, voice communication, AI integration, and enterprise administration.
+<img width="235" height="600" alt="IMG_1534" src="https://github.com/user-attachments/assets/7d6ad37d-ef51-4422-99d8-7d8858dd0edb" />
 
 ---
 
 ## 🎯 Overview
 
 **Lone Star Chat** is a comprehensive corporate communication platform designed for mid-to-large organizations. Built with Flutter for mobile (iOS/Android) and Node.js for backend, offering enterprise-grade performance and security.
+
+<img width="200" height="450" alt="IMG_1531" src="https://github.com/user-attachments/assets/b24dc3a7-c786-4019-a119-6e49cdf07942" />
+
 
 ### Key Highlights
 
@@ -51,6 +55,7 @@
 - WebRTC peer-to-peer calls
 - File sharing (images, videos, documents)
 - Message reactions and emojis
+<img width="240" height="600" alt="IMG_1532" src="https://github.com/user-attachments/assets/1e6284de-53a5-4f5a-b40b-b3fb0b7d8273" />
 
 ### AI Integration
 - AI-powered chat assistant
