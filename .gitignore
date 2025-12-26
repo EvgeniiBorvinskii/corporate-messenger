@@ -141,3 +141,4 @@ docker-compose.override.yml
 !mobile/ios/Runner.xcworkspace/
 !mobile/ios/Runner.xcodeproj/
 !mobile/ios/Runner/
+.docs-private/
