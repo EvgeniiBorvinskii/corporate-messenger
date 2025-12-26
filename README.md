@@ -1,5 +1,22 @@
 # Lone Star Chat - Enterprise Communication Platform
 
+
+
+
+<img width="210" height="500" alt="IMG_1529" src="https://github.com/user-attachments/assets/5286f79a-44d9-4e08-a843-c2f64594c29f" />
+
+
+
+<img width="210" height="500" alt="IMG_1528" src="https://github.com/user-attachments/assets/8961ff06-4355-4acd-a415-120d878ced7f" />
+
+
+
+<img width="210" height="500" alt="IMG_1527" src="https://github.com/user-attachments/assets/a98d6b31-6bde-438f-8470-ed9dac46d2e4" />
+
+
+
+
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
