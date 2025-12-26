@@ -1,0 +1,143 @@
+# =========================================
+# Lone Star Chat - Documentation Only Repository
+# =========================================
+# This repository contains ONLY documentation.
+# All source code is excluded for privacy reasons.
+
+# Exclude ALL files by default
+*
+
+# Include ONLY documentation files
+!README.md
+!*.md
+!LICENSE
+!CONTRIBUTING.md
+!CODE_OF_CONDUCT.md
+!.gitignore
+!.github/
+
+# Exclude all source code directories
+backend/
+mobile/
+database/
+scripts/
+node_modules/
+build/
+dist/
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Exclude all code files
+*.dart
+*.js
+*.ts
+*.json
+*.yaml
+*.yml
+*.xml
+*.gradle
+*.plist
+*.xcconfig
+*.xcodeproj/
+*.xcworkspace/
+*.podspec
+*.lock
+*.pub
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+mobile/ios/ServiceDefinitions.json
+mobile/ios/Runner/GeneratedPluginRegistrant.*
+mobile/ios/Podfile.lock
+mobile/ios/.generated/
+
+# Android build files
+mobile/android/.gradle
+mobile/android/gradle
+mobile/android/captures/
+mobile/android/gradlew
+mobile/android/gradlew.bat
+mobile/android/local.properties
+mobile/android/key.properties
+mobile/android/.cxx/
+mobile/android/**/*.iml
+mobile/android/.idea/
+
+# Xcode
+mobile/ios/**/*.mode1v3
+mobile/ios/**/*.mode2v3
+mobile/ios/**/*.moved-aside
+mobile/ios/**/*.pbxuser
+mobile/ios/**/*.perspectivev3
+mobile/ios/**/*sync/
+mobile/ios/**/.sconsign.dblite
+mobile/ios/**/.tags*
+mobile/ios/**/.vagrant/
+mobile/ios/**/DerivedData/
+mobile/ios/**/Icon?
+mobile/ios/**/Pods/
+mobile/ios/**/.symlinks/
+mobile/ios/**/profile
+mobile/ios/**/xcuserdata
+mobile/ios/.generated/
+mobile/ios/Flutter/App.framework
+mobile/ios/Flutter/Flutter.framework
+mobile/ios/Flutter/Flutter.podspec
+mobile/ios/Flutter/Generated.xcconfig
+mobile/ios/Flutter/ephemeral/
+mobile/ios/Flutter/app.flx
+mobile/ios/Flutter/app.zip
+mobile/ios/Flutter/flutter_assets/
+mobile/ios/Flutter/flutter_export_environment.sh
+
+# ============ LLAMA/AI MODELS ============
+models/*.gguf
+models/*.bin
+models/cache/
+
+# ============ SSL CERTIFICATES ============
+ssl/*.key
+ssl/*.crt
+ssl/*.pem
+
+# ============ LOGS ============
+logs/*.log
+*.log
+
+# ============ DATA ============
+data/*.db
+data/*.sqlite
+data/cache/
+
+# ============ BACKUPS ============
+backups/*.tar.gz
+backups/*.zip
+backups/*.sql
+
+# ============ IDE ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~.nib
+
+# ============ macOS ============
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# ============ DOCKER ============
+docker-compose.override.yml
+
+# ============ KEEP IMPORTANT DIRS ============
+!mobile/ios/Podfile
+!mobile/ios/Runner.xcworkspace/
+!mobile/ios/Runner.xcodeproj/
+!mobile/ios/Runner/
